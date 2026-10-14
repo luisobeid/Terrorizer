@@ -6,6 +6,8 @@
 Este documento describe la arquitectura, funcionamiento y diseño del artefacto audiovisual "Terrorizer", desarrollado en openFrameworks y pensado para ser usado en cualquier dispositivo que reciba mensajes MIDI. En este caso particular la interacción está hecha en Ableton Live 
 El sistema genera pelotas autónomas que interactúan visualmente mientras envían notas y efectos MIDI que son recibidos por el DAW, generando sonidos fácilmente variables.
 
+[![Video](https://img.youtube.com/vi/hMq9wk9SuOg/0.jpg)](https://youtu.be/hMq9wk9SuOg)
+
 ### Arquitectura General
 El sistema se compone de varios módulos:
 - ofApp: núcleo de la aplicación.
